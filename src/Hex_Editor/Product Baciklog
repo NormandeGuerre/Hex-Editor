@@ -1,0 +1,20 @@
+Sprint Backlog
+
+
+
+
+Product Backlog
+	Add Column Gap to JTable
+	Fix JTable resize 
+		Calculate correct JScroll view size so that there will be no  horizontal 
+			scrollbar
+	Implement Swingworker to read in data and load JTable
+	
+	Implement Conversion Panel
+	Implement Status Bar
+	Implement Indicator Bar
+	Implement editing function
+	Implement Menu Items on the Menu Bar
+		File	Edit
+		View	Search
+		Tools	Help
